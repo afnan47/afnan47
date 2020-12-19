@@ -6,4 +6,4 @@
 - 💬 Ask me about ... OOP
 - 📫 How to reach me: ...  [LinkedIn](https://in.linkedin.com/in/afnan-attar-6b79bb194/)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... :love: :video_game:
+- ⚡ Fun fact: ... :heart: :video_game:
