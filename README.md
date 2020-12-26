@@ -10,7 +10,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on ... CSES 
+- 🔭 I’m currently working on ... GCP 
 - 🌱 I’m currently learning ... Kotlin  
 - 🤔 I’m looking for help with ... Computer Graphics
 - 💬 Ask me about ... OOP
