@@ -1,6 +1,6 @@
 ### Hi there, I'm Afnan Attar 
 
-### Get in touch : <a href="https://www.linkedin.com/in/afnan-attar-6b79bb194/">
+<a href="https://www.linkedin.com/in/afnan-attar-6b79bb194/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/cout_afnan/">
