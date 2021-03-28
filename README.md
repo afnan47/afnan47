@@ -10,9 +10,8 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on ... GCP 
-- 🌱 I’m currently learning ... Kotlin  
-- 🤔 I’m looking for help with ... Computer Graphics
-- 💬 Ask me about ... OOP
+- 🔭 I’m currently working on GCP
+- 🌱 I’m currently learning many things..  
+- 💬 Ask me about ... C++
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... :heart: :video_game:
+- ⚡ Fun fact: ... Sometimes I get to eat cake on programmer's day:heart:
