@@ -7,8 +7,8 @@
 <a href="https://www.instagram.com/cout_afnan/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/people/Afnan-Attar/100010599310450/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/afnan_attar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Afnan-Attar/100010599310450/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook"  width="22px" /></a>
+<a href="https://www.hackerrank.com/afnan_attar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Hackerrank"  width="22px" /></a>
 <br />
 <br />
 
