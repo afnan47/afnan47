@@ -9,7 +9,6 @@
 </p>
 
 <br />
-<br />
 
 - 🔭 I’m currently working on GCP
 - 🌱 I’m learning many things..  
