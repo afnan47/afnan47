@@ -1,6 +1,5 @@
 ### Hi there, I'm Afnan Attar
 
-<h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/afnan-attar-6b79bb194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Afnan-Attar/100010599310450/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
