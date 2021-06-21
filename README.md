@@ -13,7 +13,7 @@
 - 🌱 I’m learning many things..  
 - 💬 Ask me about ... C++
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... Sometimes I get to eat cake on programmer's day:heart:
+- ⚡ Fun fact: ... ❤️ 🏈 🏏
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
