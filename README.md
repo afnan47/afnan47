@@ -10,9 +10,9 @@
 <br />
 
 - 🔭 I’m currently working on MERN 
-- 💬 Ask me anything about ... C++
+- 💬 Ask me anything about ... C++ | Python
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... My journey to find single terrible anime is unending
+- ⚡ Fun fact: ... My journey to a find single terrible anime is unending
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
