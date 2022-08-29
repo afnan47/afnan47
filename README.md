@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on MERN 
 - 💬 Ask me anything about ... C++
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... ❤️ 🏏 ⚽
+- ⚡ Fun fact: ... My journey to find single terrible anime is unending
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
