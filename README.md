@@ -4,8 +4,6 @@
 <a href="https://www.linkedin.com/in/afnan-attar-6b79bb194/" target="blank"><img align="center" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="LinkedIn"/></a>&emsp;<a href="https://www.instagram.com/weebnan/" target="blank"><img align="center" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram"/>
 </p>
 
-<br />
-
 - 🔭 I’m currently working on MERN 
 - 💬 Ask me anything about ... C++ | Python
 - 😄 Pronouns: ... he/him
