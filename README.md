@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 I’m currently working on MERN 
-- 💬 Ask me anything about ... C++ | Python
+- 💬 Ask me anything about ... C++ 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love Movies | Anime | Football | Video Games
 
