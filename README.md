@@ -8,7 +8,7 @@ You can connect with me on
 - 🔭 I’m currently working on DSA 
 - 💬 Ask me anything about ... C++ 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: .. Terrible at binge watching
+- ⚡ Fun fact: .. Terrible at binge watching shows
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
