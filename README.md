@@ -8,7 +8,7 @@ You can connect with me on
 - 🔭 I’m currently working on MERN 
 - 💬 Ask me anything about ... C++ 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I love Movies | Anime | Football | Video Games
+- ⚡ Fun fact: .. Terrible at binge watching.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
