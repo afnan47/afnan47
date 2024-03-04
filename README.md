@@ -1,1 +1,1 @@
-[![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=afnan47&count_private=true&layout=compact&theme=transparent&showicons=true&rank_icon=percentile)]()&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Afnan's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=afnan47&count_private=true&layout=pie&theme=transparent&showicons=true&rank_icon=percentile)
